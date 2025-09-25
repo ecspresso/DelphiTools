@@ -1,0 +1,891 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"just",
+				"justify-content-end"
+			],
+			[
+				"cl",
+				"contenteditable"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"al",
+				"align-self-end"
+			],
+			[
+				"col-",
+				"col-auto"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"SER",
+				"SERVICE_NAME"
+			],
+			[
+				"SERI",
+				"SERVICE_NAME"
+			],
+			[
+				"SNA",
+				"SERVICE_NAME"
+			],
+			[
+				"n",
+				"n_name"
+			],
+			[
+				"let",
+				"letters"
+			],
+			[
+				"nu",
+				"num_of_let"
+			],
+			[
+				"lett",
+				"letters"
+			],
+			[
+				"col",
+				"col-12"
+			],
+			[
+				"b",
+				"btn-sm"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"ch",
+				"checkValidity"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"che",
+				"checkValidity"
+			],
+			[
+				"chec",
+				"checkValidity"
+			],
+			[
+				"datas",
+				"datasource"
+			],
+			[
+				"sok",
+				"sok_filter_Till"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"c",
+				"col-lg-10"
+			],
+			[
+				"jus",
+				"justify-content-center"
+			],
+			[
+				"rela",
+				"relatedTarget"
+			],
+			[
+				"confi",
+				"confirm"
+			],
+			[
+				"sucec",
+				"success"
+			],
+			[
+				"fle",
+				"d-flex"
+			],
+			[
+				"pro",
+				"procedure"
+			],
+			[
+				"IX",
+				"IXMLDocument"
+			],
+			[
+				"Appen",
+				"AppendIfNotEmpty"
+			],
+			[
+				"Append",
+				"AppendIfNotEmpty"
+			],
+			[
+				"Di",
+				"Directory"
+			],
+			[
+				"Disk",
+				"DiskUsed"
+			],
+			[
+				"di",
+				"DiskFree"
+			],
+			[
+				"POSTGRES",
+				"POSTGRES_DB"
+			],
+			[
+				"mea",
+				"mealiedb"
+			],
+			[
+				"or",
+				"Orderbekräftelse"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"querySele",
+				"querySelectorAll"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "URL Decoder/URLDecoder.pas",
+			"settings":
+			{
+				"buffer_size": 844,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pascal",
+				"Set Syntax: Pascal"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"pasc",
+				"Set Syntax: Pascal"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"woer",
+				"Word Wrap: Toggle"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"htmlb",
+				"HTMLBeautify"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"htmlb ",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				" html",
+				"HTMLBeautify"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Bash"
+			],
+			[
+				"env",
+				"Set Syntax: DotENV"
+			],
+			[
+				"caddy",
+				"Set Syntax: Caddyfile"
+			],
+			[
+				"dotenv",
+				"Set Syntax: DotENV"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"docker",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"nix",
+				"Set Syntax: Nix"
+			],
+			[
+				"just",
+				"CSV: Justify columns"
+			],
+			[
+				"set de",
+				"CSV: Set delimiter"
+			],
+			[
+				"com",
+				"CSV: Compact columns"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"pow",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"bas",
+				"Set Syntax: Bash"
+			],
+			[
+				"jasa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Selection: Expand to Block"
+			],
+			[
+				"powerh",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"power",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"pas",
+				"Set Syntax: Pascal"
+			],
+			[
+				"jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				" wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"settigns",
+				"Preferences: Settings"
+			],
+			[
+				"po",
+				"Set Syntax: PowerShell"
+			],
+			[
+				"jso",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"expand",
+				"Selection: Expand"
+			],
+			[
+				"ym",
+				"Set Syntax: YAML"
+			],
+			[
+				"doc k",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"html b",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"pasca",
+				"Set Syntax: Pascal"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"do",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"compa",
+				"CSV: Compact columns"
+			],
+			[
+				"set csv",
+				"Set Syntax: Advanced CSV"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"jss",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"setings",
+				"Preferences: Settings"
+			],
+			[
+				"mArkd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"bea",
+				"Beautify::Beautify File"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"jav a",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"minif",
+				"Minify::Default File Settings"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsoi",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Set Syntax: AutoHotkey"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 412.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/emile/Documents/git/DelphiTools",
+		"/C/Users/emile/Documents/git/DelphiTools/URL Decoder"
+	],
+	"file_history":
+	[
+		"/C/Users/emile/Documents/git/DelphiTools/.gitignore",
+		"/C/inetpub/wwwroot/settings.ini",
+		"/C/Users/emile/Documents/git/WebBok/build_scripts/postbuild.bat",
+		"/C/Users/emile/.ssh/config",
+		"/C/Users/emile/Downloads/logger_fallback.txt",
+		"/C/Users/emile/Documents/git/WebBok/Logger.pas",
+		"/C/inetpub/testsite/webbok.log",
+		"/C/inetpub/wwwroot/webbok.log",
+		"/C/Users/emile/Documents/git/WebBok/build_scripts/prebuild.bat",
+		"/C/inetpub/wwwroot/webbok/postbuild.bat",
+		"/C/Users/emile/Documents/git/WebBok/webbok.dproj",
+		"/C/inetpub/wwwroot/webbok/ISAPI.log",
+		"/C/inetpub/wwwroot/index.html",
+		"/C/inetpub/wwwroot/webbok/index.html",
+		"/C/inetpub/wwwroot/web.config",
+		"/C/Users/emile/Documents/git/WebBok/html/js/boka/events.js",
+		"/C/Users/emile/Documents/git/WebBok/html/js/visaorder/events.js",
+		"/C/Users/emile/Documents/git/WebBok/html/js/fakturor/tabulator.js",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/header.html",
+		"/C/Users/emile/Documents/git/WebBok/html/visaorder.html",
+		"/C/Users/emile/Documents/git/WebBok/html/fakturor.html",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/mainLayout.html",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/modal/successModal.html",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/godsTemplate.html",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/gods.html",
+		"/C/Users/emile/Documents/git/WebBok/html/boka.html",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/godsTemplate2.html",
+		"/C/Users/emile/Documents/git/WebBok/html/css/main.css",
+		"/L/etc/nixos/podman/kavita.yml",
+		"/L/etc/nixos/hardware-configuration.nix",
+		"/L/etc/nixos/podman/audiobookshelf.nix",
+		"/C/Users/emile/Documents/git/WebBok/html/js/lib/tabulator.min.js",
+		"/C/Users/emile/Documents/git/WebBok/html/lisenser.html",
+		"/C/Users/emile/Documents/git/WebBok/html/ordervy.html",
+		"/L/etc/nixos/podman/kapowarr.nix",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/partials/pagination.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/partials/pageInfo.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/partials/messages.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/partials/hero.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/partials/dynamicSelect.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/partials/dynamicInput.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/partials/countrySelect.html",
+		"/C/Users/emile/Documents/git/WebBok/webbok_w_server.dproj",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/partials/codeBlock.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/keywords.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/sessionInfo.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/templates.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/Delphi/Services.CodeExamples.pas",
+		"/C/Users/emile/Downloads/WebStencilsDemos/RADServerProject/C++/README.md",
+		"/C/Users/emile/Downloads/WebStencilsDemos/RADServerProject/Delphi/README.md",
+		"/C/Users/emile/Downloads/WebStencilsDemos/RADServerProject/resources/html/basics.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/RADServerProject/resources/html/components.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/RADServerProject/resources/html/keywords.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/RADServerProject/resources/html/templates.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/C++/README.md",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/Delphi/README.md",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/Delphi/WebStencilsDemo.deployproj",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/basics.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/components.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/RADServerProject/resources/html/partials/pageInfo.html",
+		"/C/Users/emile/Downloads/WebStencilsDemos/WebBrokerProject/resources/html/partials/customers/searchForm.html",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/ordervy/searchPartForms.html",
+		"/C/Users/emile/Documents/git/WebBok/html/js/ordervy/events.js",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/footer.html",
+		"/C/Users/emile/Documents/git/WebBok/html/css/solid.css",
+		"/C/Users/emile/Documents/git/WebBok/html/css/regular.css",
+		"/C/Users/emile/Documents/git/WebBok/html/css/lib/fontawesome.min.css",
+		"/C/Users/emile/Downloads/fontawesome-free-7.0.1-web/css/fontawesome.css",
+		"/C/Users/emile/Documents/git/WebBok/html/css/brands.css",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/head.html",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/ordervy/searchSpecifik.html",
+		"/C/Users/emile/Documents/git/WebBok/html/js/ordervy/main.js",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/ordervy/searchContainer.html",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/ordervy/searchPartMain.html",
+		"/C/Users/emile/Documents/git/WebBok/html/js/ordervy/tabulator.js",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/ordervy/searchPartDates.html",
+		"/C/Users/emile/Downloads/Redirector.json",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/ordervy/searchPartX.html",
+		"/C/Users/emile/AppData/Roaming/Sublime Text/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/C/Users/emile/AppData/Roaming/Sublime Text/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/emile/AppData/Roaming/Sublime Text/Packages/User/.jsbeautifyrc",
+		"/C/Users/emile/Documents/git/WebBok/RequestHelper.pas",
+		"/C/Users/emile/Downloads/index.html",
+		"/C/Users/emile/Documents/git/WebBok/html/layouts/parts/ordervy/searchFilter.html",
+		"/C/Users/emile/Documents/git/WebBok/html/js/fakturor/events.js",
+		"/C/Users/emile/Documents/git/WebBok/html/js/avrakningar/tabulator.js",
+		"/C/Users/emile/Documents/git/WebBok/html/js/avrakningar/events.js",
+		"/C/Users/emile/Documents/git/Akarweb/Win64/Debug/html/visaorder.html",
+		"/C/Users/emile/Documents/git/Akarweb/Win64/Debug/html/js/ordervy/tabulator.js",
+		"/C/Users/emile/Documents/git/Akarweb/Win64/Debug/html/ordervy.html",
+		"/C/Users/emile/Documents/git/Akarweb/Win64/Debug/html/js/ordervy/events.js",
+		"/C/Users/emile/Documents/git/Akarweb/Win64/Debug/html/js/ordervy/main.js",
+		"/C/Users/emile/Documents/git/Akarweb/Win64/Debug/html/layouts/parts/head.html",
+		"/C/Users/emile/Documents/git/Akarweb/ini/settings.ini",
+		"/C/Users/emile/Documents/git/Akarweb/html/avrakningar.html",
+		"/C/Users/emile/Documents/git/Akarweb/html/login.html",
+		"/C/Users/emile/Documents/git/Akarweb/html/ordervy.html",
+		"/C/Users/emile/Documents/git/Akarweb/html/status.html",
+		"/C/Users/emile/Documents/git/Akarweb/html/visaorder.html",
+		"/C/Users/emile/Documents/git/Akarweb/html/layouts/parts/stateHeader.html",
+		"/C/Users/emile/Documents/git/Akarweb/html/layouts/parts/header.html",
+		"/C/Users/emile/Documents/git/Akarweb/html/layouts/parts/head.html",
+		"/C/Users/emile/Documents/git/Akarweb/html/layouts/parts/ordervy/searchSpecifik.html",
+		"/C/Users/emile/Documents/git/Akarweb/html/layouts/parts/ordervy/searchContainer.html",
+		"/C/Users/emile/Documents/git/Akarweb/html/js/ordervy/tabulator.js",
+		"/C/Users/emile/Documents/git/Akarweb/html/js/avrakningar/tabulator.js",
+		"/C/Users/emile/Documents/git/Akarweb/html/css/solid.css",
+		"/C/Users/emile/Documents/git/Akarweb/html/css/regular.css",
+		"/C/Users/emile/Documents/git/Akarweb/html/layouts/parts/modal/successModal.html",
+		"/C/Users/emile/Documents/git/Akarweb/README.md",
+		"/C/Users/emile/Documents/git/Akarweb/ErrorPageBackup.pas",
+		"/C/Users/emile/Documents/git/Akarweb/AkarWebApiModule.pas",
+		"/C/Users/emile/Documents/git/WebBok/html/avrakningar.html",
+		"/C/Users/emile/Documents/git/WebBok/ErrorPageBackup.pas",
+		"/C/Users/emile/Documents/git/WebBok/html/js/lib/htmx.parcels.js",
+		"/C/Users/emile/Documents/git/WebBok/html/js/modal.js",
+		"/C/Users/emile/Documents/git/WebBok/html/js/visaorder/main.js",
+		"/C/Users/emile/Documents/git/WebBok/html/js/boka/main.js",
+		"/C/Users/emile/Documents/git/WebBok/html/js/lib/htmx.affrelpost.js",
+		"/C/Users/emile/Documents/git/WebBokFE/Forms/FormBokaOrder.html",
+		"/C/Users/emile/Documents/git/WebBokFE/Forms/FormVisaOrder.html",
+		"/C/Users/emile/Documents/git/Akarweb/html/js/visaorder/events.js",
+		"/L/paperless/data/data/log/paperless.log",
+		"/C/Users/emile/Downloads/Examples/AdvancedDespatchAdvice_Example_Full.xml",
+		"/C/Users/emile/Documents/git/DateServer/DateServer.dpr",
+		"/C/Users/emile/Documents/git/DateServer/ConsoleConsts.pas",
+		"/C/Users/emile/Documents/git/DateServer/Console.pas",
+		"/L/etc/nixos/podman/n8n.nix"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 608.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\emile\\Documents\\git\\DelphiTools"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "URL Decoder/URLDecoder.pas",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								717,
+								717
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Pascal/Pascal.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 208.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 224.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"WebBok\\RequestHelper.pas"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 59.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
