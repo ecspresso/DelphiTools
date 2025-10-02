@@ -1,0 +1,108 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{33CD011A-ABDB-4CEF-800C-D8E10A0B9FF9}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="base64\base64.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Clipboard\Clipboard.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="DateServer\DateServer.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="IBM\IBM.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="IP\IP.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="knock\knock.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="URL Decoder\urldec.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="base64">
+        <MSBuild Projects="base64\base64.dproj"/>
+    </Target>
+    <Target Name="base64:Clean">
+        <MSBuild Projects="base64\base64.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="base64:Make">
+        <MSBuild Projects="base64\base64.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Clipboard">
+        <MSBuild Projects="Clipboard\Clipboard.dproj"/>
+    </Target>
+    <Target Name="Clipboard:Clean">
+        <MSBuild Projects="Clipboard\Clipboard.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Clipboard:Make">
+        <MSBuild Projects="Clipboard\Clipboard.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="DateServer">
+        <MSBuild Projects="DateServer\DateServer.dproj"/>
+    </Target>
+    <Target Name="DateServer:Clean">
+        <MSBuild Projects="DateServer\DateServer.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="DateServer:Make">
+        <MSBuild Projects="DateServer\DateServer.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="IBM">
+        <MSBuild Projects="IBM\IBM.dproj"/>
+    </Target>
+    <Target Name="IBM:Clean">
+        <MSBuild Projects="IBM\IBM.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="IBM:Make">
+        <MSBuild Projects="IBM\IBM.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="IP">
+        <MSBuild Projects="IP\IP.dproj"/>
+    </Target>
+    <Target Name="IP:Clean">
+        <MSBuild Projects="IP\IP.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="IP:Make">
+        <MSBuild Projects="IP\IP.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="knock">
+        <MSBuild Projects="knock\knock.dproj"/>
+    </Target>
+    <Target Name="knock:Clean">
+        <MSBuild Projects="knock\knock.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="knock:Make">
+        <MSBuild Projects="knock\knock.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="urldec">
+        <MSBuild Projects="URL Decoder\urldec.dproj"/>
+    </Target>
+    <Target Name="urldec:Clean">
+        <MSBuild Projects="URL Decoder\urldec.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="urldec:Make">
+        <MSBuild Projects="URL Decoder\urldec.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="base64;Clipboard;DateServer;IBM;IP;knock;urldec"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="base64:Clean;Clipboard:Clean;DateServer:Clean;IBM:Clean;IP:Clean;knock:Clean;urldec:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="base64:Make;Clipboard:Make;DateServer:Make;IBM:Make;IP:Make;knock:Make;urldec:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

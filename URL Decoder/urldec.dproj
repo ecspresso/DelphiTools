@@ -208,9 +208,9 @@
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2_Win64)'!=''">
         <VerInfo_Locale>1033</VerInfo_Locale>
-        <Icon_MainIcon>icon.ico</Icon_MainIcon>
-        <UWP_DelphiLogo44>icon.png</UWP_DelphiLogo44>
-        <UWP_DelphiLogo150>icon.png</UWP_DelphiLogo150>
+        <Icon_MainIcon>hat.ico</Icon_MainIcon>
+        <UWP_DelphiLogo44>hat.png</UWP_DelphiLogo44>
+        <UWP_DelphiLogo150>hat.png</UWP_DelphiLogo150>
         <Manifest_File>(None)</Manifest_File>
         <AppDPIAwarenessMode>none</AppDPIAwarenessMode>
     </PropertyGroup>
@@ -278,14 +278,14 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="icon.png" Configuration="Debug" Class="UWP_DelphiLogo44">
+                <DeployFile LocalName="hat.png" Configuration="Release" Class="UWP_DelphiLogo44">
                     <Platform Name="Win64">
                         <RemoteDir>Assets\</RemoteDir>
                         <RemoteName>Logo44x44.png</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="icon.png" Configuration="Release" Class="UWP_DelphiLogo44">
+                <DeployFile LocalName="icon.png" Configuration="Debug" Class="UWP_DelphiLogo44">
                     <Platform Name="Win64">
                         <RemoteDir>Assets\</RemoteDir>
                         <RemoteName>Logo44x44.png</RemoteName>
